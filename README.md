@@ -1,11 +1,11 @@
-TUGAS 1 PERTEMUAN 2
+# TUGAS 1 PERTEMUAN 2
 
-Nama: Andhika Putra Restu Ilahi
+- Nama: Andhika Putra Restu Ilahi
+- NIM: H1D023089
+- Shift Lama F
+- Shift Baru A
+- <img src="assets/screenshoot-tugas1.jpg" width="300"/>
 
-NIM: H1D023089
+# TUGAS 2 PERTEMUAN 3
+https://github.com/user-attachments/assets/1d3e509e-29b5-4c18-b2a7-fd9322c4e5b8
 
-Shift Lama F
-
-Shift Baru A
-
-![Screenshot_20250921_230028_IF Unsoed Mobile](https://github.com/user-attachments/assets/568558d2-1772-4431-b672-18a42d450a4b)
