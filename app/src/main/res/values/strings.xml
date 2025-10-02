@@ -37,6 +37,9 @@
     <string name="email">
         teknik@unsoed.ac.id
     </string>
+    <string name="book">
+        Koleksi Buku
+    </string>
     <string name="himpunan">
         Himpunan Mahasiswa Informatika (HMIF UNSOED)
     </string>
@@ -53,4 +56,6 @@
         Proyek, Database Administrator), Wirausahawan
         Informatika dan Dosen/Peneliti.
     </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
